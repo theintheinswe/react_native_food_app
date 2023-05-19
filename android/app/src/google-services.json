@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "592587987738",
+    "project_id": "myfoodapp-cc073",
+    "storage_bucket": "myfoodapp-cc073.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592587987738:android:ffc50880a8b8cfbb112aa3",
+        "android_client_info": {
+          "package_name": "com.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "592587987738-c1d5ahnf45b7uia85tu54035u8a6opt8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD58rY3EMivm2MAjB1P_lt0xmBqs9gHuy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "592587987738-c1d5ahnf45b7uia85tu54035u8a6opt8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592587987738:android:3f15ea1cf9e0ad91112aa3",
+        "android_client_info": {
+          "package_name": "com.rnnavigationv6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "592587987738-c1d5ahnf45b7uia85tu54035u8a6opt8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD58rY3EMivm2MAjB1P_lt0xmBqs9gHuy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "592587987738-c1d5ahnf45b7uia85tu54035u8a6opt8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
